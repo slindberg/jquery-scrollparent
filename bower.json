@@ -1,6 +1,6 @@
 {
   "name": "jquery-scrollparent",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "homepage": "https://github.com/slindberg/jquery-scrollparent",
   "description": "Standalone plugin supporting jQuery UI's `scrollParent` method",
   "main": "jquery.scrollparent.js",
